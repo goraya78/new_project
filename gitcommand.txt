@@ -2,11 +2,8 @@ To add untrack all file
 
   git add .
 
-To Commit already track or added files
 
-    git commit -am "remarks"
-
-To Commit files new work
+To Commit new work
 
     git commit -m "remarks"
 
@@ -17,15 +14,4 @@ To push data
 To create new branch
 
     git checkout -b branch_name
-	
-	
-To use account email
-
-     git config --global user.emial email_account
-	
-	
-To set account  name
-
-     git config --global user.name name_account
-	 
 	
