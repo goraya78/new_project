@@ -3,7 +3,7 @@ To add untrack all file
   git add .
 
 
-To Commit new wor
+To Commit new work
 
     git commit -m "remarks"
 
@@ -11,4 +11,7 @@ To push data
 
     git push
 
- 
+To create new branch
+
+    git checkout -b branch_name
+	
