@@ -1,0 +1,14 @@
+To add untrack all file
+
+  git add .
+
+
+To Commit new wor
+
+    git commit -m "remarks"
+
+To push data
+
+    git push
+
+ 
